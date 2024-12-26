@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.instaicon:hover {
+    background-color: gray;
+    transition: .3s;
+    cursor: pointer;
+
+}
